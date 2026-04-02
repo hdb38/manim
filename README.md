@@ -18,3 +18,9 @@ cd manim
 
 # 安装依赖
 pip install -r requirements.txt
+```
+
+ - ### 渲染动画&观看动画
+```powershell
+manim -pqh 文件名 类名
+```
